@@ -62,6 +62,8 @@ Power BI visualization dashboard:
 
 <img width="1366" height="728" alt="cancellation month" src="https://github.com/user-attachments/assets/31d430db-5265-4074-97f2-b84ebb950e98" />
 <img width="1366" height="728" alt="Booking_cancellation" src="https://github.com/user-attachments/assets/df265de8-8564-4a3c-9a09-b61ba9c9bd22" />
+<img width="1200" height="728" alt="innovation" src="https://github.com/user-attachments/assets/e71d5a1e-3ca4-48bd-9169-04d6c9f8c540" />
+
 
  New Innovation: Lead Time vs Cancellation
 
@@ -86,5 +88,4 @@ cancellation_rate['is_canceled'] = (cancellation_rate['is_canceled'] * 100).roun
 cancellation_rate.rename(columns={'is_canceled': 'Cancellation Rate (%)'}, inplace=True)
 
 print(cancellation_rate)
-<img width="1200" height="728" alt="innovation" src="https://github.com/user-attachments/assets/3fe7d3e6-c885-4790-ab84-a8c0ee873604" />
 
