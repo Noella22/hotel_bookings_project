@@ -1,0 +1,19 @@
+hotel,is_canceled,lead_time,arrival_date_month,stays_in_weekend_nights,stays_in_week_nights,adults,children,deposit_type,customer_type,adr
+Resort Hotel,0,50,July,2,3,2,0,No Deposit,Transient,100
+City Hotel,1,150,August,1,2,1,1,Non Refund,Contract,200
+City Hotel,0,20,June,0,1,2,-1,No Deposit,Transient,80
+Resort Hotel,1,300,May,3,4,2,2,Refundable,Transient-Party,150
+City Hotel,0,100,April,1,2,1,-2,No Deposit,Group,120
+Resort Hotel,0,50,July,2,3,2,0,No Deposit,Transient,100
+City Hotel,1,150,August,1,2,1,1,Non Refund,Contract,200
+City Hotel,0,20,June,0,1,2,-1,No Deposit,Transient,80
+Resort Hotel,1,300,May,3,4,2,2,Refundable,Transient-Party,150
+City Hotel,0,100,April,1,2,1,-2,No Deposit,Group,120
+Resort Hotel,0,60,July,1,2,2,1,No Deposit,Transient,110
+City Hotel,1,200,August,2,3,1,0,Non Refund,Contract,210
+City Hotel,0,30,June,0,2,2,0,No Deposit,Transient,90
+Resort Hotel,1,350,May,4,3,2,3,Refundable,Transient-Party,160
+City Hotel,0,120,April,2,1,1,0,No Deposit,Group,130
+City Hotel,0,120,April,2,1,1,0,No Deposit,Group,130
+City Hotel,0,120,April,2,1,1,0,No Deposit,Group,130
+City Hotel,0,120,April,2,1,1,0,No Deposit,Group,130
