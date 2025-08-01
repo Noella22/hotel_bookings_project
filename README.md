@@ -89,3 +89,8 @@ cancellation_rate.rename(columns={'is_canceled': 'Cancellation Rate (%)'}, inpla
 
 print(cancellation_rate)
 
+  # Access Full Project 
+
+ [GitHub Repository](https://github.com/Noella22/hotel_bookings_project)
+
+
