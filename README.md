@@ -1,3 +1,4 @@
+<img width="1366" height="728" alt="Dax" src="https://github.com/user-attachments/assets/c240a9d6-7c56-42b8-b92e-79c163f26c11" />
 # hotel_bookings_project
 project sector:*Tourism and Hospitality*
  Project: *Hotel Booking Cancellation & Demand Analysis* 
